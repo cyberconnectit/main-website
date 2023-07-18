@@ -6,12 +6,9 @@
 Cyber Connect IT
     
 ## Installation
-
 There is no installation process
-    
+
 ## Usage
-    
-To use this website there are rules that you may apply to read them go to: [rules](https://github.com/cyberconnectit/main-website/blob/main/rules.md)
 
 ## Contributing
 
