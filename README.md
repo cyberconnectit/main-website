@@ -3,7 +3,7 @@
     
 ## Project Name
 
-Cyber Connect IT's Main Website
+Cyber Connect IT
     
 ## Installation
 
@@ -11,7 +11,7 @@ There is no installation process
     
 ## Usage
     
-To use this website there are rules that you may apply to read them go to:
+To use this website there are rules that you may apply to read them go to: /rules
 
 ## Contributing
     
