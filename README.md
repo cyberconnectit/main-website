@@ -1,5 +1,6 @@
 <snippet>
-  <content><![CDATA[
+  <content>
+    
 # ${1:Project Name}
     
 Cyber Connect IT's Main Website
