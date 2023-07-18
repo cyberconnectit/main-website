@@ -1,7 +1,7 @@
 <snippet>
   <content>
     
-# ${1:Project Name}
+## Project Name
     
 Cyber Connect IT's Main Website
     
