@@ -24,6 +24,7 @@ Cyber Connect IT was formed back in 2022 with the CEO James Ehioghae and Co-CEO 
 ## Credits
 
 Adam Ayliffe - Co CEO / Web Delevoper
+James Ehio
 
 ## License
 
