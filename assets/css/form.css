@@ -28,13 +28,13 @@
 
 }
 .form-text h1{
-    color: #fff;
+    color: black;
     font-family: 'Akaya Telivigala', cursive;
     font-size: 20px;
     margin-bottom: 20px;
 }
 .form-text p{
-    color: #fff;
+    color: black;
     font-family: 'Akaya Telivigala', cursive;
     font-size: large;
 }
@@ -50,7 +50,7 @@
     background: none;
     border: 1px solid #ffca00;;
     font-size: 20px;
-    color: #fff;
+    color: black;
     outline: none;
     padding: 3px 0 3px 10px;
     margin-top: 10px;
@@ -61,7 +61,7 @@
     background: none;
     border: 1px solid #ffca00;;
     font-size: 20px;
-    color: #fff;
+    color: black;
     outline: none;
     padding: 3px 0 3px 10px;
     margin-top: 10px;
@@ -69,7 +69,7 @@
 .main-form div span{
     width: 100%;
     font-family: 'Akaya Telivigala', cursive;
-    color: #fff;
+    color: black;
     font-size: 20px;
 }
 
@@ -88,12 +88,12 @@
     font-family: 'Akaya Telivigala', cursive;
     width: 200px;
     background-color: black !important;
-    color: #fff !important;
+    color: black !important;
 }
 #submit input:active{
     font-size: 19px;
     background-color: rgb(46, 20, 5) !important;
-    color: #fff !important;
+    color: black !important;
 }
 
 
