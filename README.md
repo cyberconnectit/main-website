@@ -4,8 +4,6 @@
 ## Project Name
 
 Cyber Connect IT
-
-https://cyberconnectit.github.io/main-website/
     
 ## Installation
 There is no installation process
