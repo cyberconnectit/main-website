@@ -6,7 +6,7 @@
 }
 
 .main_bg{
-    background-image: url(assets/img/form/background.jpg);
+    background-color: red;
     background-position: center;
     max-width: 1280px;
     height: 800px;
