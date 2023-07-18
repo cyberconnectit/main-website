@@ -7,9 +7,9 @@ Cyber Connect IT's Main Website
     
 ## Installation
 
-There is no installation process for this
+There is no installation process
     
-## History
+## Usage
     
 To use this website there are rules that you may apply to read them go to:
 
