@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
 # ${1:Project Name}
+    
 Cyber Connect IT's Main Website
     
 ## Installation
@@ -14,10 +15,15 @@ To use this website there are rules that you may apply to read them go to:
 ## Contributing
     
 ## History
+
 Cyber Connect IT was formed back in 2022 with the CEO James Ehioghae and Co-CEO Adam Ayliffe
+
 ## Credits
+
 Adam Ayliffe - Co CEO / Web Delevoper
+
 ## License
-]]></content>
+
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
