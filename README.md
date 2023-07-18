@@ -2,9 +2,9 @@
   <content><![CDATA[
 # ${1:Project Name}
 Cyber Connect IT's Main Website
-## Installation
+###Installation
 There is no installation process for this
-## Usage
+###History
 To use this website there are rules that you may apply to read them go to: 
 ## Contributing
     
