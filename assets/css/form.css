@@ -6,7 +6,7 @@
 }
 
 .main_bg{
-    background-image: url(/assets/img/form/background.jpg);
+    background-image: url(assets/img/form/background.jpg);
     background-position: center;
     max-width: 1280px;
     height: 800px;
@@ -15,6 +15,7 @@
     align-items: center;
     margin: 0 auto;
 }
+
 .form{
     width: 650px;
 }
@@ -28,13 +29,13 @@
 
 }
 .form-text h1{
-    color: black;
+    color: white;
     font-family: 'Akaya Telivigala', cursive;
     font-size: 20px;
     margin-bottom: 20px;
 }
 .form-text p{
-    color: black;
+    color: white;
     font-family: 'Akaya Telivigala', cursive;
     font-size: large;
 }
@@ -50,7 +51,7 @@
     background: none;
     border: 1px solid #ffca00;;
     font-size: 20px;
-    color: black;
+    color: white;
     outline: none;
     padding: 3px 0 3px 10px;
     margin-top: 10px;
@@ -61,7 +62,7 @@
     background: none;
     border: 1px solid #ffca00;;
     font-size: 20px;
-    color: black;
+    color: white;
     outline: none;
     padding: 3px 0 3px 10px;
     margin-top: 10px;
@@ -69,7 +70,7 @@
 .main-form div span{
     width: 100%;
     font-family: 'Akaya Telivigala', cursive;
-    color: black;
+    color: white;
     font-size: 20px;
 }
 
@@ -87,7 +88,7 @@
 #submit input:hover{
     font-family: 'Akaya Telivigala', cursive;
     width: 200px;
-    background-color: black !important;
+    background-color: white !important;
     color: black !important;
 }
 #submit input:active{
