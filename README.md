@@ -14,6 +14,8 @@ There is no installation process
 To use this website there are rules that you may apply to read them go to: [rules](https://github.com/cyberconnectit/main-website/blob/main/rules.md)
 
 ## Contributing
+
+To contribute to the code or website layout you can email our service desk [Email Us](mailto:support@cyberconnectit.com)
     
 ## History
 
