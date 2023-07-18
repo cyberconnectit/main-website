@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Admin Login Portal</title> 
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+  </head>
+  <body>
+    <div class="container">
+      <div class="wrapper">
+        <div class="title"><span>Customer Portal</span></div>
+        <form name="login" onsubmit="return validateForm() ;" method="post">
+          <div class="row">
+            <i class="fas fa-user"></i>
+           <input class="username" type="text" name="username" placeholder="Username">
+          </div>
+          <div class="row">
+            <i class="fas fa-lock"></i>
+            <input class="password" type="password" name="password" placeholder="Password">
+          </div>
+          <div class="row button">
+             <input type="button" class="submit" value="Login" name="submit" onclick="validate()">
+          </div>
+        </form>
+      </div>
+    </div>
+<script>
+
+    var count= 2;
+    
+    function validate()
+    {
+        var un = document.login.username.value;
+        var pw = document.login.password.value;
+        var valid = false;
+        var usernameArray = ["Admin"];
+        var passwordArray = ["Admin123"];
+        for (var i = 0; i < usernameArray.length; i++)
+     {
+    
+        if ((un == usernameArray[i]) && (pw == passwordArray[i]))
+        {
+            valid = true;
+            break;
+        }
+    }
+        if (valid)
+        {
+            window.location = "https://cyberconnectit.github.io/Portal/PartnerHome";
+            return false;
+        }
+        var again = " tries";
+        if (count ==1)
+        {
+            again = " try"
+        }
+        if (count >= 1)
+        {
+            alert("Wrong password or username")
+            count--;
+        }
+        else
+        {
+            alert("Incorrect password or username you are now blocked");
+            document.login.username.value = "Your account is now blocked";
+            document.login.password.value = "Your account is now blocked";
+            document.login.username.disabled = true;
+            document.login.password.disabled = true;
+            return false;
+        }
+    }
+    
+    </script>
+  </body>
+</html>
