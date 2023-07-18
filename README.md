@@ -2,12 +2,17 @@
   <content><![CDATA[
 # ${1:Project Name}
 Cyber Connect IT's Main Website
-###Installation
+    
+## Installation
+
 There is no installation process for this
-###History
-To use this website there are rules that you may apply to read them go to: 
+    
+## History
+    
+To use this website there are rules that you may apply to read them go to:
+
 ## Contributing
-    fghjjjjdfjcghkugvghlb
+    
 ## History
 Cyber Connect IT was formed back in 2022 with the CEO James Ehioghae and Co-CEO Adam Ayliffe
 ## Credits
