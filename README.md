@@ -11,7 +11,7 @@ There is no installation process
     
 ## Usage
     
-To use this website there are rules that you may apply to read them go to: /rules
+To use this website there are rules that you may apply to read them go to: [a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 ## Contributing
     
