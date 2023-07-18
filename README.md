@@ -30,5 +30,13 @@ Rico Maxwell - Co-CEO of Cyber Connect IT
 ## License
 
 </content>
-  <tabTrigger>readme</tabTrigger>
+  <tabTrigger>Cyber Connect IT License
+
+Copyright (c) 2023 Cyber Connect IT
+
+It is hereby that it is NOT granted to re-generate or make copies of this website. 
+Cyber Connect IT allows input to the website if you think that something needs to be added or changed to the layout of this website.
+
+It is therefore NOT granted to make these changes yourself. 
+</tabTrigger>
 </snippet>
