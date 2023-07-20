@@ -25,6 +25,6 @@
         // Check websites periodically
         setInterval(function() {
             checkWebsite('https://cyberconnectit.github.io/main-website/', document.querySelectorAll('.monitor')[0]);
-            checkWebsite('https://cyberconnectit.github.io/ccit-admin/', document.querySelectorAll('.monitor')[1]);
-            checkWebsite('https://cyberconnectit.github.io/Portal/', document.querySelectorAll('.monitor')[2]);
+            checkWebsite('https://cyberconnectit.github.io/main-website/ccit-admin/', document.querySelectorAll('.monitor')[1]);
+            checkWebsite('https://cyberconnectit.github.io/main-website/Portal/', document.querySelectorAll('.monitor')[2]);
         }, 1000); // Check every 1 seconds
