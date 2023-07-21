@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <script>
+    function preback() {window.history.forward();}
+  setTimeout ("preback()",0);
+  window.onunload=function() {null};
+</script>
 <style>
 div {
   width: 600px;
@@ -61,11 +66,7 @@ Log back in
 </button>
 </a>
 </div>
-<script>
-    function preback() {window.history.forward();}
-  setTimeout ("preback()",0);
-  window.onunload=function() {null};
-</script>
+
 </body>
 </html>
 
